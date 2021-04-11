@@ -714,6 +714,7 @@ ul {
         font-weight: normal;
         font-size: 9.10285px;
         line-height: 14px;
+        overflow: hidden;
     }
 
     .features__aside-bg {
